@@ -202,20 +202,4 @@ Crie um arquivo `.env` na raiz do projeto:
 JWT_SECRET=your-secret-key-change-in-production
 ```
 
-## Testes
-
-```bash
-# Testes unitários
-npm run test
-
-# Testes e2e
-npm run test:e2e
-
-# Cobertura
-npm run test:cov
-```
-
-## Licença
-
-MIT
 
